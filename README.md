@@ -16,4 +16,4 @@ This is my first project. It's a simple AI chatbot built in Python using OpenAI 
 ### How To Run 
 - **Clone the repository**
 - ```bash
-  git clone https://github.com/myusername/My-First-Project.git cd My-First-Project
+  git clone https://github.com/Kolokoharry-svg/My-First-Project.git cd My-First-Project
